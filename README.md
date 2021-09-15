@@ -16,7 +16,7 @@ Vagrantを使って、UECda-2021 コンピュータ大貧民大会のC言語版�
 $ git clone https://github.com/tetsuya-suzuki/daihinmin-dev-env
 $ cd daihinmin-dev-env
 $ ls
-README.md Vagrantfile bootstrap.sh
+README.md Vagrantfile bootstrap.sh work
 $ vagrant up
 ```
 
